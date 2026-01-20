@@ -6,5 +6,10 @@ public class LoginClass {
 		System.out.println("Login page Created");
 
 	}
+	
+	public static void homePage()
+	{
+		System.out.println("capture home page title");
+	}
 
 }
